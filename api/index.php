@@ -1,2 +1,2 @@
 <?php
-echo "Olá, Vercel!";
+phpinfo();
